@@ -4,6 +4,8 @@ class MyExcept:
     a = 10
     b = 20
     L = [1, 2 , 3]
+
+
     def my_function(self):
         try:
             print("Hello")
